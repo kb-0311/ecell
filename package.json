@@ -16,7 +16,7 @@
     "aos": "^2.3.4",
     "axios": "^0.21.1",
     "bootstrap": "^4.6.0",
-    "firebase": "^8.7.1",
+    "firebase": "^8.10.1",
     "gatsby": "^2.26.1",
     "gatsby-image": "^2.5.0",
     "gatsby-plugin-client-side-redirect": "^1.1.0",
